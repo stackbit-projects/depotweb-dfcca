@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/Screen Shot 2021-01-24 at 5.25.19 PM.png
     image_alt: App preview
-    title: This Is A Big Hero Headline
+    title: Depot
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site. 
