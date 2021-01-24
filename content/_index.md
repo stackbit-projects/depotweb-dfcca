@@ -14,7 +14,7 @@ sections:
         style: primary
       - label: Mac App Store
         url: lorem-ipsum
-        style: primary
+        style: secondary
         has_icon: true
         icon: arrow-left
         icon_position: left
