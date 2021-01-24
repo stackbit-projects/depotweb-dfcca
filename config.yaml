@@ -6,7 +6,7 @@ params:
   header:
     logo_img: images/splendid-coriander.png
     logo_img_alt: Depot Logo
-    has_nav: false
+    has_nav: true
     nav_links:
       - label: Home
         url: /
