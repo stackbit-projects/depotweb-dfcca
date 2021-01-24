@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/Screen Shot 2021-01-24 at 5.25.19 PM.png
     image_alt: App preview
     title: This Is A Big Hero Headline
     content: >-
