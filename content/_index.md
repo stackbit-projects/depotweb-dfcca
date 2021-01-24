@@ -12,15 +12,6 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-      - label: Mac App Store
-        url: lorem-ipsum
-        style: primary
-        has_icon: true
-        icon: arrow-left
-        icon_position: left
-        new_window: false
-        no_follow: false
-        type: action
   - section_id: features
     type: section_features
     background: gray
