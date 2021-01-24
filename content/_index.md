@@ -6,9 +6,8 @@ sections:
     image: images/Screen Shot 2021-01-24 at 5.25.19 PM.png
     image_alt: App preview
     title: Depot
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: |
+      A MacOS app for managing 3D model content and resources.
     actions:
       - label: Learn More
         url: /features
