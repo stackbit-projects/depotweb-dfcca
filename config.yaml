@@ -90,7 +90,7 @@ params:
       href="https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer"
       target="_blank" rel="noopener">now</a>.
   domain: getdepot.app
-  favicon: images/icon_128x128.png
+  favicon: images/icon_512x512.png
 taxonomies:
   stub: stub
 disableKinds:
