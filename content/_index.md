@@ -98,7 +98,7 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-meta_title: 'Depot: '
+meta_title: 'Depot: MacO'
 meta_description: The preview of the Azimuth theme
 layout: landing
 ---
