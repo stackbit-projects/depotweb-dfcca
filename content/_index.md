@@ -99,6 +99,6 @@ sections:
     background: gray
     title: Latest Posts
 meta_title: 'Depot: MacOS app for 3D model resources'
-meta_description: The preview of the Azimuth theme
+meta_description: 'MacOS app for managing 3D models, resources, and other files.'
 layout: landing
 ---
